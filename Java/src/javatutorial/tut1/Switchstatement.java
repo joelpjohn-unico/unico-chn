@@ -1,4 +1,4 @@
-package javatutorial;
+package javatutorial.tut1;
 
 public class Switchstatement {
 
