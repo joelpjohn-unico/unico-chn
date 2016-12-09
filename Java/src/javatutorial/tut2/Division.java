@@ -1,18 +1,16 @@
-package javatutorial;
+package javatutorial.tut2;
 
 import java.util.Scanner;
 
-public class Mathoperators {
+public class Division {
 
 	public static void main(String[] args) {
-		Scanner naveen = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
 		
 		int num1, num2, total;
-		num1 = 10;
-		num2 = 5;
+		num1 = 6;
+		num2 = 4;
 		total = num1 / num2;
 		System.out.println(total);
-
 	}
-
 }

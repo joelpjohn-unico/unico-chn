@@ -1,4 +1,4 @@
-package javatutorial;
+package javatutorial.tut1;
 
 import java.util.Scanner;
 
@@ -14,5 +14,4 @@ public class Basiccalculator {
 		answer = fnum + snum;
 		System.out.println(answer);
 	}
-
 }
